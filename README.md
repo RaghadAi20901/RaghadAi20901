@@ -4,7 +4,7 @@
   />
 </p>
 
-<h2 align="center" style="color:#4A4A4A;">Let's Connect and Have a Chat! 🐾</h2>
+<h2 align="center" style="color:#4A4A4A;">Let's Connect and Have a Chat! 💬🐾</h2>
 
 <p align="center">
   <!-- Email -->
@@ -51,14 +51,18 @@ cat_supervisors:
 fields_of_interest:
   [
     "Artificial Intelligence",
+    "Machine Learning",
+    "Data Analysis",
     "Internet of Things",
-    "Robotics",
-    "Software Engineering"
+    "Embedded Systems",
+    "Software Engineering",
+    "Robotics"
   ]
 
 hobbies:
   [
-    "Reading Behavioral Psychology",
-    "Product Photography",
-    "Tech Prototyping"
+    "Reading",
+    "Dark-Humor Books",
+    "Learning New Tech",
+    "Small Creative Side Projects"
   ]
