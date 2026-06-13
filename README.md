@@ -62,11 +62,3 @@ hobbies:
     "Product Photography",
     "Tech Prototyping"
   ]
-<h3 align="center" style="color:#4A4A4A;">🛠️ Tech I Use</h3>
-
-<p align="center">
-  <!-- All your skill badges are inside this block -->
-  <img src="https://img.shields.io/badge/Java-4A4A4A?style=for-the-badge&logo=openjdk&logoColor=white" />
-  ...
-  <img src="https://img.shields.io/badge/Linux-778899?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
