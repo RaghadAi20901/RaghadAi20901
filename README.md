@@ -1,22 +1,30 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=A8C69F&text=Raghad%20Hameed%20Alluqmani&fontSize=40&fontColor=ffffff" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4A4A4A&text=Hey%20Everyone!&fontSize=52&animation=fadeIn"
+  />
 </p>
 
-<h2 align="center" style="color:#6A7C6A;">Computer Science Student • AI & IoT Enthusiast 🐾</h2>
+<h2 align="center" style="color:#4A4A4A;">Let's Connect and Have a Chat! 🐾</h2>
 
 <p align="center">
   <!-- Email -->
   <a href="mailto:RaghdAl@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" width="90px" alt="Outlook"/>
+    <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" width="40px" alt="Outlook"/>
   </a>
+
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" width="90px" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/?size=512&id=13930&format=png" width="45px" alt="LinkedIn"/>
   </a>
+
   <!-- GitHub -->
   <a href="https://github.com/RaghadAi0981">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" width="90px" alt="GitHub"/>
+    <img src="https://img.icons8.com/?size=512&id=12598&format=png" width="45px" alt="GitHub"/>
   </a>
+</p>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZqMjYxdTIzamJpdmYyNHJuY2UxamZsMTI2eDBjanB5MnFsMHMwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/905GG7MjDw61q/giphy.gif" width="350" alt="cute gif">
 </p>
 
 ---
@@ -24,33 +32,33 @@
 ```yaml
 name: Raghad Hameed Alluqmani
 located_in: Makkah, Saudi Arabia
-current_role: "CS Student | AI & IoT Developer"
+current_role: "Computer Science Student • AI & IoT Enthusiast"
 
 education:
   [
     "B.Sc. in Computer Science (Umm Al-Qura University)",
-    "AI, Data Science & Machine Learning",
-    "Embedded Systems & Robotics"
+    "AI, Data Science & Machine Learning Self-Learner",
+    "Embedded Systems & Arduino Projects"
+  ]
+
+cat_supervisors:
+  [
+    "Chief of Quality Control",
+    "IoT Systems Tester (ESP32)",
+    "Professional Napper"
   ]
 
 fields_of_interest:
   [
     "Artificial Intelligence",
-    "Internet of Things (IoT)",
-    "Embedded Systems",
-    "Robotics"
-  ]
-
-cat_supervisors:
-  [
-    "Building an automated smart-nutrition system",
-    "Real-time monitoring using ESP32",
-    "Ensuring high-quality care through code"
+    "Internet of Things",
+    "Robotics",
+    "Software Engineering"
   ]
 
 hobbies:
   [
-    "Behavioral Psychology",
+    "Reading Behavioral Psychology",
     "Product Photography",
-    "IoT Side Projects"
+    "Tech Prototyping"
   ]
