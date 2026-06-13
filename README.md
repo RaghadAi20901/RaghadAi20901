@@ -66,3 +66,56 @@ hobbies:
     "Learning New Tech",
     "Small Creative Side Projects"
   ]
+
+```
+
+
+---
+
+<h3 align="center" style="color:#FADADD;">🛠️ Tech I Use</h3>
+
+<p align="center">
+
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-FADADD?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-AED6F1?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-FADADD?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-AED6F1?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-FADADD?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-AED6F1?style=for-the-badge&logo=dart&logoColor=white" />
+
+  <!-- Frameworks & Tools -->
+  <img src="https://img.shields.io/badge/Laravel-AED6F1?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-FADADD?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-AED6F1?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-FADADD?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-AED6F1?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-FADADD?style=for-the-badge&logo=figma&logoColor=white" />
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-FADADD?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-AED6F1?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-FADADD?style=for-the-badge&logo=supabase&logoColor=white" />
+
+  <!-- AI & Data -->
+  <img src="https://img.shields.io/badge/Pandas-AED6F1?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-FADADD?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analysis-AED6F1?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-FADADD?style=for-the-badge&logo=plotly&logoColor=white" />
+
+  <!-- DevOps & Cloud -->
+  <img src="https://img.shields.io/badge/Docker-FADADD?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-AED6F1?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-FADADD?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-AED6F1?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FADADD?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-AED6F1?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-FADADD?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+  <!-- Embedded & Other -->
+  <img src="https://img.shields.io/badge/Arduino-FADADD?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-AED6F1?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-FADADD?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-AED6F1?style=for-the-badge&logo=latex&logoColor=white" />
+
+</p>
