@@ -18,7 +18,6 @@
   </a>
 
   <!-- GitHub -->
- <p align="center">
   <a href="https://github.com/RaghadAi20901?tab=overview&from=2026-06-01&to=2026-06-16" target="_blank">
     <img src="https://img.icons8.com/?size=512&id=12598&format=png" width="45px" alt="GitHub"/>
   </a>
