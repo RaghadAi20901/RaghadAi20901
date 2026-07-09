@@ -17,17 +17,14 @@
 <h2 align="center" style="color:#4A4A4A;">Let's Connect and Have a Chat! 💬🐾</h2>
 
 <p align="center">
-  <!-- Email -->
   <a href="mailto:RaghdAl@outlook.com">
-    <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" width="40px" alt="Outlook"/>
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
   </a>
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
-    <img src="https://img.icons8.com/?size=512&id=13930&format=png" width="45px" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- GitHub -->
-  <a href="https://github.com/RaghadAi20901?tab=overview&from=2026-06-01&to=2026-06-16" target="_blank">
-    <img src="https://img.icons8.com/?size=512&id=12598&format=png" width="45px" alt="GitHub"/>
+  <a href="https://github.com/RaghadAi20901">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
