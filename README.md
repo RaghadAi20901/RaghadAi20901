@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=700&color=4A4A4A&center=true&vCenter=true&width=500&lines=Raghad+Hameed+Alluqmani;CS+Student+%40+Umm+Al-Qura+Uni;AI+%26+IoT+Enthusiast;Cat+Lover+%26+Code+Slinger+%F0%9F%90%88%E2%80%8D%E2%9B%94%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=700&color=4A4A4A&center=true&vCenter=true&width=500&lines=Raghad+Hameed+Alluqmani;B.Sc.+CS+Grad+%40+Umm+Al-Qura+Uni;AI+%26+IoT+Enthusiast;Cat+Lover+%26+Code+Slinger+%F0%9F%90%88%E2%80%8D%E2%9B%94%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
@@ -39,11 +39,11 @@
 ```yaml
 name: Raghad Hameed Alluqmani
 located_in: Makkah, Saudi Arabia
-current_role: "Computer Science Student • AI & IoT Enthusiast"
+current_role: "B.Sc. Computer Science Graduate • AI & IoT Enthusiast"
 
 education:
   [
-    "B.Sc. in Computer Science (Umm Al-Qura University)",
+    "B.Sc. in Computer Science — Umm Al-Qura University (2026)",
     "AI, Data Science & Machine Learning Self-Learner",
     "Embedded Systems & Arduino Projects"
   ]
