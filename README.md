@@ -90,12 +90,11 @@ hobbies:
 <h3 align="center" style="color:#4A4A4A;">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RaghadAi20901&show_icons=true&count_private=true&hide_border=true&bg_color=FFFFFF&title_color=FADADD&icon_color=AED6F1&text_color=4A4A4A&border_color=FADADD" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghadAi20901&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=FADADD&text_color=4A4A4A&border_color=FADADD" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RaghadAi20901&hide_border=true&background=FFFFFF&stroke=FADADD&ring=AED6F1&fire=FADADD&currStreakLabel=4A4A4A&sideNums=4A4A4A&currStreakNum=4A4A4A&dates=4A4A4A" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RaghadAi20901&hide_border=true&background=FFFFFF&stroke=FADADD&ring=AED6F1&fire=FADADD&currStreakLabel=4A4A4A&sideNums=4A4A4A&currStreakNum=4A4A4A&dates=4A4A4A" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaghadAi20901&theme=default" alt="Contribution Graph" />
 </p>
 
 <p align="center">
@@ -114,39 +113,60 @@ hobbies:
 
 <br/>
 
-<!-- First row -->
-<p align="center">
-  <a href="https://github.com/RaghadAi20901/Disease_Prediction_Using_Clinical_Data" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaghadAi20901&repo=Disease_Prediction_Using_Clinical_Data&hide_border=true&bg_color=FFFFFF&title_color=FADADD&icon_color=AED6F1&text_color=4A4A4A&border_color=FADADD&show_owner=true" />
-  </a>
-  <a href="https://github.com/RaghadAi20901/Amazon-Fine-Food-Reviews-NLP" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaghadAi20901&repo=Amazon-Fine-Food-Reviews-NLP&hide_border=true&bg_color=FFFFFF&title_color=FADADD&icon_color=AED6F1&text_color=4A4A4A&border_color=FADADD&show_owner=true" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <a href="https://github.com/RaghadAi20901/Disease_Prediction_Using_Clinical_Data">
+        <img src="https://img.shields.io/badge/Disease%20Prediction-4A4A4A?style=for-the-badge&logo=jupyter&logoColor=white" /><br/>
+        <sub>ML models on clinical data</sub>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/RaghadAi20901/Amazon-Fine-Food-Reviews-NLP">
+        <img src="https://img.shields.io/badge/NLP%20Reviews-4A4A4A?style=for-the-badge&logo=python&logoColor=white" /><br/>
+        <sub>Sentiment on 500K+ Amazon reviews</sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="300">
+      <a href="https://github.com/RaghadAi20901/my_automation_scripts">
+        <img src="https://img.shields.io/badge/Automation%20Scripts-4A4A4A?style=for-the-badge&logo=gnu-bash&logoColor=white" /><br/>
+        <sub>Bash utilities for macOS/Linux</sub>
+      </a>
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/RaghadAi20901/Raghad_Portfolio">
+        <img src="https://img.shields.io/badge/Portfolio-4A4A4A?style=for-the-badge&logo=html5&logoColor=white" /><br/>
+        <sub>Personal web portfolio</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<!-- Second row -->
-<p align="center">
-  <a href="https://github.com/RaghadAi20901/my_automation_scripts" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaghadAi20901&repo=my_automation_scripts&hide_border=true&bg_color=FFFFFF&title_color=FADADD&icon_color=AED6F1&text_color=4A4A4A&border_color=FADADD&show_owner=true" />
-  </a>
-  <a href="https://github.com/RaghadAi20901/Raghad_Portfolio" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RaghadAi20901&repo=Raghad_Portfolio&hide_border=true&bg_color=FFFFFF&title_color=FADADD&icon_color=AED6F1&text_color=4A4A4A&border_color=FADADD&show_owner=true" />
-  </a>
-</p>
+<br/>
+
+<!-- ===== LANGUAGE BREAKDOWN ===== -->
+
+<h3 align="center" style="color:#4A4A4A;">📈 Language Breakdown</h3>
 
 <p align="center">
-  <b>🧠 Disease Prediction</b> — ML models on clinical data &nbsp;•&nbsp;
-  <b>📝 NLP Reviews</b> — Sentiment analysis on 500K+ Amazon reviews &nbsp;•&nbsp;
-  <b>⚙️ Automation Scripts</b> — Bash utilities for macOS/Linux &nbsp;•&nbsp;
-  <b>🖥️ Portfolio</b> — My personal web portfolio
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaghadAi20901&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaghadAi20901&theme=default" />
 </p>
 
 <br/>
 
 <!-- ===== SNAKE ANIMATION ===== -->
 
+<h3 align="center" style="color:#4A4A4A;">🐍 Contribution Snake</h3>
+
 <p align="center">
-  <img src="https://github.com/RaghadAi20901/RaghadAi20901/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%">
+  <img src="https://raw.githubusercontent.com/RaghadAi20901/RaghadAi20901/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%">
+</p>
+
+<p align="center">
+  <i>✨ The snake appears after the first workflow run. Go to <b>Actions → Generate Snake Animation → Run workflow</b> to generate it.</i>
 </p>
 
 <br/>
@@ -216,17 +236,7 @@ hobbies:
 
 <br/>
 
-<!-- ===== WEEKLY CODE STATS ===== -->
-
-<h3 align="center" style="color:#4A4A4A;">⏱️ Weekly Dev Breakdown</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RaghadAi20901&hide_border=true&bg_color=FFFFFF&title_color=FADADD&text_color=4A4A4A&border_color=FADADD&layout=compact" alt="Wakatime Stats" />
-</p>
-
-<br/>
-
-<!-- ===== FOOTER ===== -->
+<!-- ===== VISITOR COUNTER ===== -->
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=RaghadAi20901&icon=0&color=FADADD" alt="Visit Count" />
