@@ -94,15 +94,7 @@ hobbies:
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaghadAi20901&theme=default" alt="Contribution Graph" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=RaghadAi20901&theme=flat&no-frame=true&column=6&row=1&margin-w=10&margin-h=10&title_color=4A4A4A&icon_color=FADADD&text_color=4A4A4A" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaghadAi20901&bg_color=FFFFFF&color=4A4A4A&line=FADADD&point=AED6F1&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 <br/>
@@ -145,15 +137,6 @@ hobbies:
 </table>
 
 <br/>
-
-<!-- ===== LANGUAGE BREAKDOWN ===== -->
-
-<h3 align="center" style="color:#4A4A4A;">📈 Language Breakdown</h3>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaghadAi20901&theme=default" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RaghadAi20901&theme=default" />
-</p>
 
 <br/>
 
