@@ -93,11 +93,6 @@ hobbies:
   <img src="https://github-readme-streak-stats.herokuapp.com?user=RaghadAi20901&hide_border=true&background=FFFFFF&stroke=FADADD&ring=AED6F1&fire=FADADD&currStreakLabel=4A4A4A&sideNums=4A4A4A&currStreakNum=4A4A4A&dates=4A4A4A" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RaghadAi20901&theme=flat&no-frame=true&column=6&row=1&margin-w=10&margin-h=10&title_color=4A4A4A&icon_color=FADADD&text_color=4A4A4A" alt="GitHub Trophies" />
-</p>
-
-<br/>
 
 <!-- ===== FEATURED PROJECTS ===== -->
 
@@ -140,7 +135,7 @@ hobbies:
 
 <br/>
 
-<!-- ===== SNAKE ANIMATION ===== -->
+<!-- ===== SNAKE ANIMATION =====
 
 <h3 align="center" style="color:#4A4A4A;">🐍 Contribution Snake</h3>
 
@@ -152,7 +147,7 @@ hobbies:
   <i>✨ The snake appears after the first workflow run. Go to <b>Actions → Generate Snake Animation → Run workflow</b> to generate it.</i>
 </p>
 
-<br/>
+<br/> -->
 
 <!-- ===== TECH STACK ===== -->
 
@@ -221,9 +216,9 @@ hobbies:
 
 <!-- ===== VISITOR COUNTER ===== -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=RaghadAi20901&icon=0&color=FADADD" alt="Visit Count" />
-</p>
+</p> -->
 
 <p align="center" style="color:#4A4A4A; font-size: 14px;">
   ⚡ <b>Fun fact:</b> My code is 30% logic, 60% debugging, and 10% cats walking on the keyboard.
